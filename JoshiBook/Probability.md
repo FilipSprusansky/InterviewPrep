@@ -9,13 +9,11 @@ $$
 E(X) &= pE(X|H) + (1-p)E(X|T) \\ 
 &= p . 1 + (1-p)E(X+1) \\
 &= p + E(X) + 1 - pE(X) - p \\
-E(X) &= \frac{1}{p}
-\end{align}
-
-\begin{align}
+E(X) &= \frac{1}{p}\\
 E(X^2) &= pE(X^2|H) + (1-p)E(X^2|T) \\
 &= p.1 + (1-p)E((X+1)^2) \\
-&= p + (1-p)(E(X^2) + 2E(X) + 1) 
-E(X^2) &= \frac{2-p}{p^2} 
+&= p + (1-p)(E(X^2) + 2E(X) + 1) \\
+E(X^2) &= \frac{2-p}{p^2} \\
+\text{Var}(X) &= E(X^2) - E(X)^2 = \frac{1-p}{p^2}
 \end{align}
 $$
