@@ -17,3 +17,15 @@ E(X^2) &= \frac{2-p}{p^2} \\
 \text{Var}(X) &= E(X^2) - E(X)^2 = \frac{1-p}{p^2}
 \end{align}
 $$
+
+*Subproblems:*
+
+TODO
+
+
+#### Problem 3.7
+TODO
+
+E(N) = 3
+
+Var(N) = 2 (based on simulation)
