@@ -1,3 +1,6 @@
+#### Problem 3.2
+For bonus question where we pay 1 to reroll: https://math.stackexchange.com/questions/2078312/roll-a-dice-infinite-times-but-pay-1-to-play-strategy
+
 #### Problem 3.6 
 Suppose we have a fair coin, let N denote the number of tosses until we get H. Calculate mean and variance of N.
 
